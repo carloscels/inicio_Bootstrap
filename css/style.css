@@ -1,0 +1,27 @@
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color:#9662C6;
+}
+
+.nosconheca{
+    background-color: #11101F;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px; 
+}
+
+.destinos{
+    background-color: #11101F  ;
+    color: white;
+}
+
+.contato{
+    background-color: #01000e  ;
+    color: white;
+}
